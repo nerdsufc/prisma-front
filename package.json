@@ -1,7 +1,7 @@
 {
-  "name": "prisma-edu",
-  "version": "0.0.0",
-  "private": true,
+  "name": "prisma-front",
+  "version": "0.0.1",
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
